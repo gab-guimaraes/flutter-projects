@@ -20,4 +20,4 @@ Its a shaggy personal card with e-mail and phone. I used Google Fonts.
 
 > Icons: https://fonts.google.com/icons
 
-> Material Design Icons: https://materialdesignicons.com/
+> Material Paletre: https://www.materialpalette.com/
