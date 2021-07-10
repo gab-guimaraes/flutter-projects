@@ -11,8 +11,8 @@ It was tested on Android Emulator and Android phone.
 ### Mi Card Flutter
 Its a shaggy personal card with e-mail and phone. I used Google Fonts. 
 
-
-
+### Xylophone Music
+Creating a colorful xylophone with 7 notes (c, d, e, f, g, a and b).
 
 > Google Fonts: https://fonts.google.com/
 
