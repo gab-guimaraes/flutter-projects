@@ -22,7 +22,7 @@ class XylophoneApp extends StatelessWidget {
             enableFeedback: false,
           ),
           onPressed: () {
-            playSound(1);
+            playSound(soundNumber);
           }
       ),
     );
@@ -37,7 +37,7 @@ class XylophoneApp extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              buildKey(Colors.blue, 1),
+              buildKey(Colors.green, 1),
               buildKey(Colors.red, 2),
               buildKey(Colors.orange, 3),
               buildKey(Colors.teal, 4),
